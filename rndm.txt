@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/240.0.0.75.715;FBBV/106384347;FBPN/com.facebook.katana;FBLC/pt_BR;FBCR/Vivo;FBBD/Allview;FBMF/Allview;FBDV/T0010WW;FBSV/9.0;FBCA/x86;FBDM/{density=4.0,width=1880,height=2340};FB_FW/5;]
+[FBAN/FB4A;FBAV/240.0.0.75.715;FBBV/106384347;FBPN/com.facebook.katana;FBLC/pt_BR;FBCR/Vivo;FBBD/Allview;FBMF/Allview;FBDV/X7 Pro;FBSV/9.0;FBCA/x86;FBDM/{density=4.0,width=1880,height=2340};FB_FW/5;]
