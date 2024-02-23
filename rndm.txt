@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/136.0.0.22.974;FBBV/860743638;FBPN/com.facebook.katana;FBLC/fil_PH;FBCR/Globe Telecom;FBBD/Wiko;FBMF/Wiko;FBDV/W-K510;FBSV/11;FBCA/arm64-v8a;FBDM/{density=4.2,width=720,height=1640};FB_FW/7;]
+[FBAN/FB4A;FBAV/240.0.0.84.343;FBBV/552413959;FBPN/com.facebook.katana;FBLC/ru_KZ;FBCR/Kcell;FBBD/Infinix;FBMF/Infinix;FBDV/X688C;FBSV/13;FBCA/x86_64;FBDM/{density=3.9,width=720,height=1612};FB_FW/8;]
