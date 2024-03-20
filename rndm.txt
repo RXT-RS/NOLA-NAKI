@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/285.0.0.65.774;FBBV/518417635;FBPN/com.facebook.katana;FBLC/el_GR;FBCR/Hellenic Telecommunications;FBBD/Meizu;FBMF/Meizu;FBDV/M201Q;FBSV/11;FBCA/arm64-v8a;FBDM/{density=4.4,width=1368,height=3192};FB_FW/5;]
+[FBAN/FB4A;FBAV/329.0.0.44.871;FBRV/850491224;FBPN/com.facebook.katana;FBLC/ar_MA;FBCR/Maroc Telecom;FBBD/Micromax;FBMF/Micromax;FBDV/E7446;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=3.6,width=1880,height=2400};FB_FW/3;]
