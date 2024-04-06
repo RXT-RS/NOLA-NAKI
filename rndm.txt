@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/231.0.0.43.643;FBBV/437826375;FBPN/com.facebook.katana;FBLC/fr_CM;FBCR/Nexttel;FBBD/Huawei;FBMF/Huawei;FBDV/nova 12i;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=4.0,width=1080,height=2388};FB_FW/4;]
+[FBAN/FB4A;FBAV/342.0.0.64.514;FBBV/395424650;FBPN/com.facebook.katana;FBLC/ja_JP;FBCR/SoftBank;FBBD/QMobile;FBMF/Qmobile;FBDV/J7 Pro;FBSV/7.0.0;FBCA/x86;FBDM/{density=2.3,width=720,height=1880};FB_FW/3;]
