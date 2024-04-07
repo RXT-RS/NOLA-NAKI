@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/342.0.0.64.514;FBBV/395424650;FBPN/com.facebook.katana;FBLC/ja_JP;FBCR/SoftBank;FBBD/QMobile;FBMF/Qmobile;FBDV/J7 Pro;FBSV/7.0.0;FBCA/x86;FBDM/{density=2.3,width=720,height=1880};FB_FW/3;]
+[FBAN/FB4A;FBAV/231.0.0.43.618;FBBV/241980635;FBPN/com.facebook.katana;FBLC/de_DE;FBCR/Deutsche;FBBD/Micromax;FBMF/Micromax;FBDV/N8301;FBSV/8.1;FBCA/x86;FBDM/{density=3.2,width=720,height=1500};FB_FW/2;]
